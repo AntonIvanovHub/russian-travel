@@ -20,10 +20,8 @@
 
 @media screen and (max-width: 640px) {
   .lead__subtitle {    
-    font-weight: normal;
     font-size: 16px;
-    line-height: 20px;  
-    text-align: center;
+    line-height: 20px;
     margin: 16px 16px 40px;  
   }
 }

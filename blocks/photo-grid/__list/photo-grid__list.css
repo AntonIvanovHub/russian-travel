@@ -23,8 +23,7 @@
 
 @media screen and (max-width: 425px){
   .photo-grid__list {
-    grid-template-columns: 1fr;   
-    grid-gap: 16px;
+    grid-template-columns: 1fr;  
     padding: 64px 16px 0;
   }
 }
